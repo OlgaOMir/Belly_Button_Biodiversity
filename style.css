@@ -1,0 +1,6 @@
+.jumbotron {
+    background-image: url("bacteria.jfif");
+    background-size: cover;
+    h1: {color: #fff};
+    p: {color: #fff}
+  }
