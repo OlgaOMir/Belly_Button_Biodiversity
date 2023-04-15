@@ -1,2 +1,10 @@
 # Belly_Button_Biodiversity
-Module 13 Challenge
+
+## Tools Used to Create the dashboard: 
+
+* JavaScript
+* Plotly.js
+* D3.json()
+* GitHub Pages demployment
+
+
